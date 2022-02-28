@@ -75,21 +75,14 @@ It will use WBNB and WETH for buying. Not BNB/ETH. Make sure you have them in yo
 
 
 
-
-
-
-
-
-ULTIMATE VERSION ADDITONAL INFO:
-
-You chose the best one out there! What extra does it do?
+ADD INFO
 
 1. It shoots 15 times, not 1. Why? Because some projects/tokens use an anti-bot, that does not allow to buy on the first block. That brakes 99% of bots. This shoots 15 times, in 5 different blocks. 3 times in each block. If one works, the other once will cancel ( if you only have enough for one shoot in the wallet. Please do check)
 2. Why 3 times in each block? Some projects use an anti-bot that allows for only a limited amount of tokens to be bought in the first 3 minutes. You will be able to enters 3 AmountIn settings. AmountIn1 should be the largest. AmountIn2 - medium. AmountIn3 - low valus. So that if the big order does not get confirmed, it will try with a smaller and an even smaller one. Belive me - even if you go in with a small amount, you will make huge profits. Usuaully limits for such anti-bots are about 500 usd in the first 3 minutes. 500 usd snipe usually brings around 10k profit USD.
 3. You can enters 2 WSS addressses. Why? Scanning takes a lot of resources and if you are using a private, paid node, it can be costly. For Pancakeswap - Binance has set a free node. It uses that for scanning. WSS2 can be your private node address and it will shoot much faster! It will change it automatically when its time to buy :). This will not waste your private, paid node limits.
 4. For the first 3 buy orders ( first block) - it copies the original transaction gas limit and price for you to be as close as possible. You will have Limit and Price settings - those will apply to all other 12 buy orders. As they are in next blocks, you can put high has limits hoping that it is the first transaction the miners pick! The higher the price, the better!
 
-Happy sniping!
+
 
 
 
